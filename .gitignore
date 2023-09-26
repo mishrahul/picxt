@@ -1,0 +1,13 @@
+build/
+
+dist/
+
+__pychache__/
+
+picxt.spec
+
+main_resources/
+
+picxt.exe
+
+Thumbs.db
