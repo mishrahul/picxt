@@ -1,6 +1,6 @@
 # picxt v1.0.0
 
-Picxt is a standalone application to retrieve images (such as screenshots) which contain user-defined keyword, in any specific directory.
+Picxt.exe is a standalone application to retrieve images (such as screenshots) which contain user-defined keyword, in any specific directory.
 
 
 # Usage
