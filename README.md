@@ -3,7 +3,7 @@
 Picxt.exe is a standalone application to retrieve images (such as screenshots) which contain user-defined keyword, in any specific directory.
 
 
-# Usage
+## Usage
 
 User needs to select a directory inorder to search for the images. After the keyword is entered, the tool scans every image in the directory & checks
 whether an image contains the keyword. If positive, the application returns a list of images containing the keyword in tabular form. 
@@ -12,7 +12,7 @@ For more info refer help section inside the application.
 Supported image formats: JPEG, PNG, TIFF, GIF & BMP.
 
 
-# Screenshots
+## Screenshots
 
 ### Home screen 
 ![main-screen](https://github.com/mishrahul/picxt/assets/145216845/063e11d8-3bec-4be2-b4cf-3bd16c9d4e33)
@@ -30,24 +30,24 @@ Supported image formats: JPEG, PNG, TIFF, GIF & BMP.
 ![help-section](https://github.com/mishrahul/picxt/assets/145216845/28dfacfb-ca98-42fe-84f6-ad853b3c77fa)
 
 
-# Requirements
+## Requirements
 
 Requires Windows 8.1+.
 Make sure you have python 3.11.1 installed in your system. 
 
 
-# Installation
+## Installation
 
 This app requires no installation for itself. It can be used on-the-go. 
 Note that opening app may take a few seconds due to temporary extraction of dependencies required at runtime.
 
 
-# Technologies 
+## Technologies 
 
 * Python 3.11.1
 * PyTesseract based on Tesseract OCR 0.3.10
 * Tkinter library for GUI
 
 
-# Support
+## Support
 For bugs-reports, queries or feedback, please reach out at rahulmishra9692@gmail.com
