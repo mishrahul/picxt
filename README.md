@@ -33,7 +33,7 @@ Supported image formats: JPEG, PNG, TIFF, GIF & BMP.
 ## Requirements
 
 Requires Windows 8.1+.
-Make sure you have python 3.11.1 installed in your system. 
+Make sure you have python 3.11.1+ installed in your system. 
 
 
 ## Installation
