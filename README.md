@@ -50,4 +50,4 @@ Note that opening app may take a few seconds due to temporary extraction of depe
 
 
 ## Support
-For bugs-reports, queries or feedback, please reach out at rahulmishra9692@gmail.com
+For bug-reports, queries or suggestions, please reach out at rahulmishra9692@gmail.com
