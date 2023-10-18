@@ -31,9 +31,14 @@ Supported image formats: JPEG, PNG, TIFF, GIF & BMP.
 
 
 ## Requirements
+(Release)
+*Requires Windows 8.1+.
+*Make sure you have python 3.11.1+ installed in your system. 
 
-Requires Windows 8.1+.
-Make sure you have python 3.11.1+ installed in your system. 
+(Script)
+Same as above & additionally:
+* pyTesseract 0.3.10+
+* Tkinter library
 
 
 ## Installation
